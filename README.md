@@ -9,4 +9,4 @@ It features
 -Allows every type of item in the game
 -Custom mechanics inside them,wich are stored!
 -Self-unloading spawners once nobody is around
--Upcomming API to ease other developers trying to work with it
+-Upcomming API to ease other developers trying to work with it.
