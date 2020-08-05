@@ -1,0 +1,13 @@
+name: ItemSpawners
+author: Stellrow
+version: 1.0
+api-version: 1.13
+main: ro.Stellrow.ItemSpawners.ItemSpawners
+softdepend:
+  - Vault
+  - HolographicDisplays
+
+commands:
+  itemspawners:
+    usage: /itemspawners
+    description: Main plugin command

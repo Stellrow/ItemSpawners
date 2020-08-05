@@ -1,0 +1,14 @@
+SpawnerItemConfig:
+  name: '&6%spawnerType &7| &8Item Spawner'
+  lore:
+    - '&7A item spawner,it will spawn a item'
+    - '&7after some time!'
+General:
+  spawnerUpgrade:
+    speed-level-limit: 3
+    quantity-level-limit: 3
+  spawnerOptions:
+    starting-time: 120
+    speed-multiplier: 10
+  upgradeOptions:
+    base-upgrade-cost: 15000
